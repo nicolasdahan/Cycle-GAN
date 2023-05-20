@@ -1,3 +1,0 @@
-# Cycle-GAN
-
-DCGAN & CycleGAN
